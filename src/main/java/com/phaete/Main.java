@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Test");
         String ich = "Stefan";
         System.out.println("Hallo Stefan");
+        String me = "Murhaf";
     }
 }
