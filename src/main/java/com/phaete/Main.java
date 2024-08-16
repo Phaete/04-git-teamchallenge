@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Test");
         String ich = "Stefan";
+        System.out.println("Hallo Stefan");
     }
 }
